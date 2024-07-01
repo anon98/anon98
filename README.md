@@ -19,7 +19,7 @@ I am a Research Associate and a doctoral candidate at [Institute for Automation 
 
 ## Featured Repositories
 
-### [Energy Community Simulator](https://github.com/anon98/EC-simulator)
+# [Energy Community Simulator](https://github.com/anon98/EC-simulator)
 
 ## Specializations
 
