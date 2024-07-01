@@ -13,10 +13,13 @@ I am a Research Associate and a doctoral candidate at [Institute for Automation 
 
 ## Contact Information
 
-- **Location:** Aachen, Germany
-- **Email:** [sreejith.pananchickal@eonerc.rwth-aachen.de](mailto:sreejith.pananchickal@eonerc.rwth-aachen.de)
-- **LinkedIn:** [linkedin.com/in/sreejith12333](https://linkedin.com/in/sreejith12333)
-- **GitHub:** [github.com/srsps](https://github.com/srsps)
+## Contact Information
+
+- ![](https://img.shields.io/badge/Location-Aachen,%20Germany-green?style=flat-square&logo=map)
+- [![](https://img.shields.io/badge/Email-sreejith.pananchickal%40eonerc.rwth--aachen.de-blue?style=flat-square&logo=gmail)](mailto:sreejith.pananchickal@eonerc.rwth-aachen.de)
+- [![](https://img.shields.io/badge/LinkedIn-sreejith12333-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/sreejith12333)
+- [![](https://img.shields.io/badge/GitHub-srsps-black?style=flat-square&logo=github)](https://github.com/srsps)
+
 ## Featured Repositories
 
 ### [Energy Community Simulator]((https://github.com/anon98/EC-simulator))
