@@ -11,14 +11,14 @@ This is a short introduction to who I am!
 
 I am a Research Associate and a doctoral candidate at [Institute for Automation of Complex Power Systems, RWTH Aachen](https://www.acs.eonerc.rwth-aachen.de/cms/E-ON-ERC-ACS/Das-Institut/~dsko/Ueber-ACS/lidx/1/). Working on making our energy systems smarter and better!
 
-## Contact Information
+
 
 ## Contact Information
 
 - ![](https://img.shields.io/badge/Location-Aachen,%20Germany-green?style=flat-square&logo=map)
 - [![](https://img.shields.io/badge/Email-sreejith.pananchickal%40eonerc.rwth--aachen.de-blue?style=flat-square&logo=gmail)](mailto:sreejith.pananchickal@eonerc.rwth-aachen.de)
 - [![](https://img.shields.io/badge/LinkedIn-sreejith12333-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/sreejith12333)
-- [![](https://img.shields.io/badge/GitHub-srsps-black?style=flat-square&logo=github)](https://github.com/srsps)
+- [![](https://img.shields.io/badge/GitHub-srsps-black?style=flat-square&logo=github)](https://github.com/anon98)
 
 ## Featured Repositories
 
