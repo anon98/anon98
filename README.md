@@ -15,10 +15,10 @@ I am a Research Associate and a doctoral candidate at [Institute for Automation 
 
 ## Contact Information
 
-- ![](https://img.shields.io/badge/Location-Aachen,%20Germany-green?style=flat-square&logo=map)
-- [![](https://img.shields.io/badge/Email-sreejith.pananchickal%40eonerc.rwth--aachen.de-blue?style=flat-square&logo=gmail)](mailto:sreejith.pananchickal@eonerc.rwth-aachen.de)
-- [![](https://img.shields.io/badge/LinkedIn-sreejith12333-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/sreejith12333)
-- [![](https://img.shields.io/badge/GitHub-srsps-black?style=flat-square&logo=github)](https://github.com/anon98)
+- ![](https://img.shields.io/badge/Aachen,%20Germany-green?style=flat-square&logo=map)
+- [![](https://img.shields.io/badge/sreejith.pananchickal%40eonerc.rwth--aachen.de-blue?style=flat-square&logo=gmail)](mailto:sreejith.pananchickal@eonerc.rwth-aachen.de)
+- [![](https://img.shields.io/badge/sreejith12333-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/sreejith12333)
+- [![](https://img.shields.io/badge/GitHub-anon98-black?style=flat-square&logo=github)](https://github.com/anon98)
 
 ## Featured Repositories
 
