@@ -17,6 +17,9 @@ I am a Research Associate and a doctoral candidate at [Institute for Automation 
 - **Email:** [sreejith.pananchickal@eonerc.rwth-aachen.de](mailto:sreejith.pananchickal@eonerc.rwth-aachen.de)
 - **LinkedIn:** [linkedin.com/in/sreejith12333](https://linkedin.com/in/sreejith12333)
 - **GitHub:** [github.com/srsps](https://github.com/srsps)
+## Featured Repositories
+
+### [Energy Community Simulator]((https://github.com/anon98/EC-simulator))
 
 ## Specializations
 
